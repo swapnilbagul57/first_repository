@@ -13,3 +13,9 @@ x = 56
 y = 65
 z = x - y
 print(z)
+
+#multiplication
+x = 56
+y = 89
+z = x * y
+print(z)
