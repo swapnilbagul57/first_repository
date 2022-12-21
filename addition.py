@@ -7,3 +7,9 @@ print(add)
 n = 5
 for i in range(1, 11):
     print(n * i)
+
+#subtraction
+x = 56
+y = 65
+z = x - y
+print(z)
